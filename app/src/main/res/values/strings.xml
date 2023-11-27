@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">asking many permissions</string>
+    <string name="button_permission">click me to know about permission</string>
+</resources>
